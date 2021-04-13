@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\Google Drive\Projects\MySQL\mysql-week-5\.metadata\.plugins\org.eclipse.jdt.core
+3670100944.index
+4202075939.index

@@ -1,0 +1,6 @@
+package application;
+
+public class Menu {
+	private Scanner scanner = new Scanner(System.in);
+	
+}

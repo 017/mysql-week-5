@@ -1,0 +1,39 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+/**
+ * 
+ */
+
+/**
+ * @author 017
+ *
+ */
+public class Week5 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String connString = "jdbc:mysql://localhost:3306/pizza_db";
+		final String SELECT_QUERY = "SELECT * FROM pizzas LIMIT 100";
+		try {
+			Connection conn = DriverManager.getConnection(connString, "root", "root");
+			System.out.println("Connected to DB Successfully.");
+			Statement statement = conn.createStatement();
+			ResultSet rs = statement.executeQuery(SELECT_QUERY);
+			
+			while (rs.next()) {
+				System.out.println("Pizza ID: " + rs.getInt(1) + " Pizza Price: " + rs.getFloat(2) + " Pizza Name: " + rs.getString(3));
+			}
+		} catch (SQLException e) {
+			System.out.println("Error connecting to DB.");
+			e.printStackTrace();
+		}
+		
+	}
+
+}
