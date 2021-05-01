@@ -1,0 +1,46 @@
+
+k	java:S106V"9Replace this use of System.out or System.err by a logger.(®±à8‹—¿Á/H–RMAJORZ
+CODE_SMELL
+p	java:S106v"9Replace this use of System.out or System.err by a logger.(“Œ”Áüÿÿÿÿ8ëÚöö/HçRMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(ú¡”’úÿÿÿÿ8ÊÆ“æ/H›RMAJORZ
+CODE_SMELL
+k	java:S106M"9Replace this use of System.out or System.err by a logger.(ë‹Óˆ8‹—¿Á/HâRMAJORZ
+CODE_SMELL
+¦
+java:S1130Z"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ÚÌ¥©ûÿÿÿÿ8©†Â/HRMINORZ
+CODE_SMELL
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ÊÆ“æ/HRMAJORZ
+CODE_SMELL
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(çç”±8Á–ÿÁ/H”RMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(©£«šşÿÿÿÿ8Á–ÿÁ/H‘RMAJORZ
+CODE_SMELL
+¼
+java:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚÌ¥©ûÿÿÿÿ8‹—¿Á/HRCRITICALZ
+CODE_SMELL
+p	java:S106n"9Replace this use of System.out or System.err by a logger.(»ñ€«üÿÿÿÿ8ÊÆ“æ/H¡RMAJORZ
+CODE_SMELL
+¦
+java:S1130^"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(•øüÉşÿÿÿÿ8©†Â/H“RMINORZ
+CODE_SMELL
+¼
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•øüÉşÿÿÿÿ8‹—¿Á/H’RCRITICALZ
+CODE_SMELL
+k	java:S106G"9Replace this use of System.out or System.err by a logger.(×«‘8ÊÆ“æ/HœRMAJORZ
+CODE_SMELL
+n	java:S125
+"<This block of commented-out lines of code should be removed.(Ä¿çí8ÊÆ“æ/H—RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(µŠğ»8ÊÆ“æ/HšRMAJORZ
+CODE_SMELL
+k	java:S106K"9Replace this use of System.out or System.err by a logger.(Ñåâ8‹—¿Á/HåRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(Õ¤’™úÿÿÿÿ8‹—¿Á/H•RMAJORZ
+CODE_SMELL
+p	java:S106t"9Replace this use of System.out or System.err by a logger.(Şıó˜øÿÿÿÿ8”æ²À/HŒRMAJORZ
+CODE_SMELL
+k	java:S106S"9Replace this use of System.out or System.err by a logger.(µŠğ»8ÊÆ“æ/HRMAJORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(€…â‚ûÿÿÿÿ8ÊÆ“æ/HŸRMAJORZ
+CODE_SMELL

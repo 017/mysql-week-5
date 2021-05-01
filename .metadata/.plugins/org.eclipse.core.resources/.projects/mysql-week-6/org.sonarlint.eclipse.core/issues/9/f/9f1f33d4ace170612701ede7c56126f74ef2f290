@@ -1,0 +1,18 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¾Âöÿ8ĞĞ¨í/H©RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı…»øÿÿÿÿ8øÀ“¾/H¤RMAJORZ
+CODE_SMELL
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ğ¤‚8øÀ“¾/H£RMINORZ
+CODE_SMELL
+}
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÅöÏ²øÿÿÿÿ8øÀ“¾/H§RMINORZ
+CODE_SMELL
+_
+java:S3010"'Remove this assignment of "connection".(ığşÿÿÿÿ8øÀ“¾/H¥RMAJORZ
+CODE_SMELL
+}
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(’ ”üüÿÿÿÿ8ĞĞ¨í/H¨RMINORZ
+CODE_SMELL

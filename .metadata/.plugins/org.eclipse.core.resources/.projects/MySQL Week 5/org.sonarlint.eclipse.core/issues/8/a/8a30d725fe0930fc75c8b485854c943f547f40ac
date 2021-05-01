@@ -1,0 +1,19 @@
+
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼âŞÂøÿÿÿÿH²RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î®ÖÆH­RMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ôš°şÿÿÿÿH®RMINORZ
+CODE_SMELL
+|	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùıÖåH´RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î®ÖÆH°RMINORZ
+CODE_SMELL
+†	java:S116"VRename this field "pizza_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Öí‡üÿÿÿÿH±RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î®ÖÆHµRMINORZ
+CODE_SMELL
+€	java:S116"URename this field "pizza_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åšİ—H¯RMINORZ
+CODE_SMELL
+ƒ	java:S116"SRename this field "pizza_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÍ…İÿÿÿÿÿH³RMINORZ
+CODE_SMELL

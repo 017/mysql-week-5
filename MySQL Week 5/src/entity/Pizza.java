@@ -5,10 +5,10 @@ public class Pizza {
 	private String pizza_name;
 	private float pizza_price;
 	
-	public Pizza(int pizza_id, String pizza_name, float pizza_price) {
-		this.setPizzaID(pizza_id);
-		this.setPizzaName(pizza_name);
-		this.setPizzaPrice(pizza_price);
+	public Pizza(int pizza_id_input, String pizza_name_input, float pizza_price_input) {
+		this.setPizzaID(pizza_id_input);
+		this.setPizzaName(pizza_name_input);
+		this.setPizzaPrice(pizza_price_input);
 	}
 	
 	public int getPizzaID() {

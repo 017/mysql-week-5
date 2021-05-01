@@ -1,0 +1,31 @@
+package entity;
+
+import dao.PetDao;
+
+public class PetBreed {
+	private int pet_breed_id;
+	private String pet_breed_name;
+	private PetDao petDao = new PetDao();
+	
+	public PetBreed(int pet_breed_id_input, String pet_breed_name_input) {
+		this.setPetBreedID(pet_breed_id_input);
+		this.SetPetBreedName(pet_breed_name_input);
+	}
+
+	private void SetPetBreedName(String pb_name) {
+		this.pet_breed_name = pb_name;
+	}
+
+	private void setPetBreedID(int pb_id) {
+		this.pet_breed_id = pb_id;
+	}
+
+	public String getPetBreedName(int id) {
+		this.pet_breed_name = petDao.getBreedNameByID(id)
+		return this.pet_breed_name;
+	}
+
+	private int getPetBreedID() {
+		return this.pet_breed_id;
+	}
+}

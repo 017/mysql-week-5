@@ -9,7 +9,7 @@ import entity.Pizza;
 import dao.PizzaDao;
 
 public class Menu {
-	private PizzaDao pizzaDao;
+	private PizzaDao pizzaDao = new PizzaDao();
 	private Scanner scanner = new Scanner(System.in);
 	private List<String> options = Arrays.asList(
 			"Display Pizzas", 
@@ -79,7 +79,7 @@ public class Menu {
 		int id = Integer.parseInt(scanner.nextLine());
 		Pizza pizza = pizzaDao.getPizzaByID(id);
 		System.out.println(pizza.getPizzaID() + ": " + pizza.getPizzaName());
-		System.out.println("\tPizza ID: " + pizza.getPizzaID() + " Pizza Name:" + pizza.getPizzaName() + " Pizza Price: " + pizza.getPizzaPrice());
+		System.out.println("\tPizza ID: " + pizza.getPizzaID() + " | Pizza Name:" + pizza.getPizzaName() + " | Pizza Price: " + pizza.getPizzaPrice());
 	}
 
 	private void displayPizzas() throws SQLException {

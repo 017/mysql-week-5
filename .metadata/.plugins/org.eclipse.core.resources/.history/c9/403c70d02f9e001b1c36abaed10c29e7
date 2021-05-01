@@ -1,0 +1,6 @@
+package entity;
+
+public class Pet {
+	private int pet_id;
+	private String pet_name;
+}
