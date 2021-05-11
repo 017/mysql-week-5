@@ -27,15 +27,15 @@ public class Menu {
 			try {
 
 				if (selection.equals("1")) {
-					this.displayPizzas();
+					displayPizzas();
 				} else if (selection.equals("2")) {
-					this.displayPizza();
+					displayPizza();
 				} else if (selection.equals("3")) {
-					this.createPizza();
+					createPizza();
 				} else if (selection.equals("4")) {
-					this.deletePizza();
+					deletePizza();
 				} else if (selection.equals("5")) {
-					this.editPizza();
+					editPizza();
 				}
 			} catch (SQLException e) {
 				e.printStackTrace();

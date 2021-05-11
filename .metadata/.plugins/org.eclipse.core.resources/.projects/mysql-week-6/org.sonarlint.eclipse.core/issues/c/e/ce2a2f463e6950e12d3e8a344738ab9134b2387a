@@ -1,46 +1,65 @@
 
-k	java:S106V"9Replace this use of System.out or System.err by a logger.(®±à8‹—¿Á/H–RMAJORZ
+k	java:S106G"9Replace this use of System.out or System.err by a logger.(Ñåâ8ÊÆ“æ/HÚ2RMAJORZ
 CODE_SMELL
-p	java:S106v"9Replace this use of System.out or System.err by a logger.(“Œ”Áüÿÿÿÿ8ëÚöö/HçRMAJORZ
+q	java:S106‹"9Replace this use of System.out or System.err by a logger.(»ñ€«üÿÿÿÿ8ÊÆ“æ/HÛ2RMAJORZ
 CODE_SMELL
-p	java:S106E"9Replace this use of System.out or System.err by a logger.(ú¡”’úÿÿÿÿ8ÊÆ“æ/H›RMAJORZ
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(î£—8ÊÆ“æ/HÜ2RMAJORZ
 CODE_SMELL
-k	java:S106M"9Replace this use of System.out or System.err by a logger.(ë‹Óˆ8‹—¿Á/HâRMAJORZ
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(ë‹Óˆ8Á–ÿÁ/Hİ2RMAJORZ
 CODE_SMELL
-¦
-java:S1130Z"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ÚÌ¥©ûÿÿÿÿ8©†Â/HRMINORZ
+k	java:S106W"9Replace this use of System.out or System.err by a logger.(î£—8ÊÆ“æ/HŞ2RMAJORZ
 CODE_SMELL
-k	java:S106e"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ÊÆ“æ/HRMAJORZ
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(Õ¤’™úÿÿÿÿ8‹—¿Á/Hß2RMAJORZ
 CODE_SMELL
-k	java:S106I"9Replace this use of System.out or System.err by a logger.(çç”±8Á–ÿÁ/H”RMAJORZ
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(µŠğ»8ÊÆ“æ/Hà2RMAJORZ
 CODE_SMELL
-p	java:S106="9Replace this use of System.out or System.err by a logger.(©£«šşÿÿÿÿ8Á–ÿÁ/H‘RMAJORZ
+q	java:S106‘"9Replace this use of System.out or System.err by a logger.(Şıó˜øÿÿÿÿ8”æ²À/Há2RMAJORZ
 CODE_SMELL
-¼
-java:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚÌ¥©ûÿÿÿÿ8‹—¿Á/HRCRITICALZ
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(©£«šşÿÿÿÿ8Á–ÿÁ/Hâ2RMAJORZ
 CODE_SMELL
-p	java:S106n"9Replace this use of System.out or System.err by a logger.(»ñ€«üÿÿÿÿ8ÊÆ“æ/H¡RMAJORZ
+k	java:S106E"9Replace this use of System.out or System.err by a logger.(çç”±8ÊÆ“æ/Hã2RMAJORZ
 CODE_SMELL
-¦
-java:S1130^"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(•øüÉşÿÿÿÿ8©†Â/H“RMINORZ
+q	java:S106“"9Replace this use of System.out or System.err by a logger.(“Œ”Áüÿÿÿÿ8ëÚöö/Hä2RMAJORZ
 CODE_SMELL
-¼
-java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•øüÉşÿÿÿÿ8‹—¿Á/H’RCRITICALZ
+k	java:S106`"9Replace this use of System.out or System.err by a logger.(®±à8‹—¿Á/Hå2RMAJORZ
 CODE_SMELL
-k	java:S106G"9Replace this use of System.out or System.err by a logger.(×«‘8ÊÆ“æ/HœRMAJORZ
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(î£—8ÊÆ“æ/Hæ2RMAJORZ
 CODE_SMELL
-n	java:S125
-"<This block of commented-out lines of code should be removed.(Ä¿çí8ÊÆ“æ/H—RMAJORZ
+
+java:S1192l"KDefine a constant instead of duplicating this literal " | Breed: " 3 times.(‹‰àï8ä×ä’/Hç2RCRITICALZ
 CODE_SMELL
-k	java:S106C"9Replace this use of System.out or System.err by a logger.(µŠğ»8ÊÆ“æ/HšRMAJORZ
+‹
+java:S1192A"VDefine a constant instead of duplicating this literal "Enter Pet Type Name: " 3 times.(îì»\8ä×ä’/Hë2RCRITICALZ
 CODE_SMELL
-k	java:S106K"9Replace this use of System.out or System.err by a logger.(Ñåâ8‹—¿Á/HåRMAJORZ
+
+java:S1192C"WDefine a constant instead of duplicating this literal "Enter Pet Breed Name: " 3 times.(î£—8ä×ä’/Hï2RCRITICALZ
 CODE_SMELL
-p	java:S1066"9Replace this use of System.out or System.err by a logger.(Õ¤’™úÿÿÿÿ8‹—¿Á/H•RMAJORZ
+„
+java:S1192j"IDefine a constant instead of duplicating this literal ": Name: " 3 times.(•“ñãÿÿÿÿÿ8ä×ä’/Hó2RCRITICALZ
 CODE_SMELL
-p	java:S106t"9Replace this use of System.out or System.err by a logger.(Şıó˜øÿÿÿÿ8”æ²À/HŒRMAJORZ
+…
+java:S1192k"JDefine a constant instead of duplicating this literal " | Type: " 3 times.(àåş•şÿÿÿÿ8ä×ä’/H÷2RCRITICALZ
 CODE_SMELL
-k	java:S106S"9Replace this use of System.out or System.err by a logger.(µŠğ»8ÊÆ“æ/HRMAJORZ
+h
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ä×ä’/Hû2RMINORZ
 CODE_SMELL
-p	java:S106W"9Replace this use of System.out or System.err by a logger.(€…â‚ûÿÿÿÿ8ÊÆ“æ/HŸRMAJORZ
+j	java:S106A"9Replace this use of System.out or System.err by a logger.(îì»\8ä×ä’/Hü2RMAJORZ
+CODE_SMELL
+j	java:S106P"9Replace this use of System.out or System.err by a logger.(îì»\8ä×ä’/Hı2RMAJORZ
+CODE_SMELL
+p	java:S106a"9Replace this use of System.out or System.err by a logger.(€…â‚ûÿÿÿÿ8ä×ä’/Hş2RMAJORZ
+CODE_SMELL
+k	java:S106i"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ä×ä’/Hÿ2RMAJORZ
+CODE_SMELL
+j	java:S106s"9Replace this use of System.out or System.err by a logger.(îì»\8ä×ä’/H€3RMAJORZ
+CODE_SMELL
+k	java:S106w"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ä×ä’/H3RMAJORZ
+CODE_SMELL
+l	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ä×ä’/H‚3RMAJORZ
+CODE_SMELL
+e
+java:S1144N"2Remove this unused private "createPetType" method.(´„‰Œ8ä×ä’/Hƒ3RMAJORZ
+CODE_SMELL
+k
+java:S1144U"3Remove this unused private "createPetBreed" method.(ä¦ïÉûÿÿÿÿ8ä×ä’/H„3RMAJORZ
 CODE_SMELL

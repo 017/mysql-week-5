@@ -11,3 +11,7 @@ C
 src/dao/PetDao.java,f\f\ffef36a68792c18aba36e4ad79085b3154b43d49
 C
 src/entity/Pet.java,3\8\38bec1613b9048c2e0441c8fa8175285f699acde
+H
+src/entity/PetBreed.java,6\f\6f6dc7c67f1b870564c2045d77b06976f464149e
+G
+src/entity/PetType.java,3\9\3912915defdb3c645c92092cd74df49a087a5f21

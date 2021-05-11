@@ -1,46 +1,46 @@
 
-Œ	java:S116"aRename this field "EDIT_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó»÷HŠRMINORZ
-CODE_SMELL
-{
-java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Üğ³ùÿÿÿÿHıRBLOCKERZBUG
-	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ä¬ÀûÿÿÿÿH„RMINORZ
-CODE_SMELL
 M
-java:S1170"!Make this final field static too.(©Ó»÷HúRMINORZ
+java:S1170"!Make this final field static too.(äÙôãHŸ4RMINORZ
 CODE_SMELL
-v
-java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(É¸ÖHƒRBLOCKERZBUG
-	java:S116"cRename this field "DELETE_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»İ@HÿRMINORZ
-CODE_SMELL
-{
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿ ãùÿÿÿÿHˆRBLOCKERZBUG
-|	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã…¾èH€RMINORZ
-CODE_SMELL
-v
-java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(şş½¦H‚RBLOCKERZBUG
 …
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•çÅ»H…RMINORZ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•çÅ»H 4RMINORZ
 CODE_SMELL
-‘	java:S116"aRename this field "CREATE_NEW_PIZZA_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚Ê²øÿÿÿÿH‰RMINORZ
+‹	java:S116"`Rename this field "GET_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÙôãH¡4RMINORZ
 CODE_SMELL
-‹	java:S116"`Rename this field "GET_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÙôãH‡RMINORZ
+|	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã…¾èH¢4RMINORZ
 CODE_SMELL
-‹	java:S116"[Rename this field "GET_PIZZAS_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ğ°şÿÿÿÿHûRMINORZ
+Œ	java:S116"aRename this field "EDIT_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó»÷H£4RMINORZ
 CODE_SMELL
-v
-java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ì¯ÕİH†RBLOCKERZBUG
+	java:S116"cRename this field "DELETE_PIZZA_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»İ@H¤4RMINORZ
+CODE_SMELL
 M
-java:S1170"!Make this final field static too.(äÙôãHüRMINORZ
+java:S1170"!Make this final field static too.(©Ó»÷H¥4RMINORZ
+CODE_SMELL
+‘	java:S116"aRename this field "CREATE_NEW_PIZZA_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‚Ê²øÿÿÿÿH¦4RMINORZ
+CODE_SMELL
+{
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Üğ³ùÿÿÿÿH§4RBLOCKERZBUG
+	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ä¬ÀûÿÿÿÿH¨4RMINORZ
+CODE_SMELL
+‹	java:S116"[Rename this field "GET_PIZZAS_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ğ°şÿÿÿÿH©4RMINORZ
+CODE_SMELL
+R
+java:S1170"!Make this final field static too.(ì˜ğ°şÿÿÿÿHª4RMINORZ
 CODE_SMELL
 L
-java:S1170"!Make this final field static too.(»İ@HRMINORZ
+java:S1170"!Make this final field static too.(»İ@H«4RMINORZ
 CODE_SMELL
+v
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(şş½¦H¬4RBLOCKERZBUG
 R
-java:S1170"!Make this final field static too.(ì˜ğ°şÿÿÿÿH‹RMINORZ
+java:S1170"!Make this final field static too.(Ö‚Ê²øÿÿÿÿH­4RMINORZ
 CODE_SMELL
-R
-java:S1170"!Make this final field static too.(Ö‚Ê²øÿÿÿÿHşRMINORZ
-CODE_SMELL
+v
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(É¸ÖH®4RBLOCKERZBUG
+{
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿ ãùÿÿÿÿH¯4RBLOCKERZBUG
+v
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ì¯ÕİH°4RBLOCKERZBUG
 j
-java:S1128"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©8Şâ‡/HÏRMINORZ
+java:S1128"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©8Şâ‡/H±4RMINORZ
 CODE_SMELL

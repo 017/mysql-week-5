@@ -1,60 +1,63 @@
 
-ˆ	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á€Ö›øÿÿÿÿ8Ş®Ïô/HşRMINORZ
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( â˜µ8Ş®Ïô/H…3RMINORZ
 CODE_SMELL
-ˆ	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¸ä¾úÿÿÿÿ8·¨»/H¸RMINORZ
+‰	java:S116"WRename this field "pet_breed_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é™ğ8·¨»/H†3RMINORZ
 CODE_SMELL
-ˆ	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö…˜¾úÿÿÿÿ8·¨»/HêRMINORZ
+ƒ	java:S116"QRename this field "pet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ»ø8úïˆ»/H‡3RMINORZ
 CODE_SMELL
-…	java:S116"SRename this field "pet_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éä‰ı8úïˆ»/HîRMINORZ
+ˆ	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€óÃƒÿÿÿÿÿ8·¨»/Hˆ3RMINORZ
 CODE_SMELL
-	java:S116
-"YRename this field "pet_breed_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—”£üÿÿÿÿ8™¨˜Š/H‘RMINORZ
+ˆ	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö…˜¾úÿÿÿÿ8·¨»/H‰3RMINORZ
 CODE_SMELL
-ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( â˜µ8·¨»/HãRMINORZ
+ˆ	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á€Ö›øÿÿÿÿ8Ş®Ïô/HŠ3RMINORZ
 CODE_SMELL
-ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õş–ßÿÿÿÿÿ8Ş®Ïô/H€RMINORZ
-CODE_SMELL
-s	java:S125"<This block of commented-out lines of code should be removed.(‚éç°şÿÿÿÿ8Ş®Ïô/HƒRMAJORZ
-CODE_SMELL
-m	java:S125@"<This block of commented-out lines of code should be removed.(ÑÁ„<8Ş®Ïô/H…RMAJORZ
-CODE_SMELL
-ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞÕ8Ş®Ïô/HÿRMINORZ
-CODE_SMELL
-ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºØ»±8·¨»/HâRMINORZ
-CODE_SMELL
-ƒ	java:S116"QRename this field "pet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ»ø8úïˆ»/HáRMINORZ
-CODE_SMELL
-‰	java:S116"WRename this field "pet_breed_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é™ğ8·¨»/HíRMINORZ
-CODE_SMELL
-	java:S116	"XRename this field "pet_type_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¾ĞŞúÿÿÿÿ8™¨˜Š/HRMINORZ
-CODE_SMELL
-†	java:S116"URename this field "pet_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÁ»{8Ş®Ïô/HRMINORZ
-CODE_SMELL
-ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ñõúÿÿÿÿ8·¨»/HàRMINORZ
-CODE_SMELL
-ƒ	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¼æ8·¨»/HéRMINORZ
-CODE_SMELL
-	java:S116"WRename this field "pet_birthday" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²ô¤üÿÿÿÿ8Ş®Ïô/H‚RMINORZ
-CODE_SMELL
-ƒ	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø°³¢8Ş®Ïô/HıRMINORZ
-CODE_SMELL
-ˆ	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€óÃƒÿÿÿÿÿ8·¨»/HİRMINORZ
-CODE_SMELL
-ˆ	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¬õåüÿÿÿÿ8·¨»/HäRMINORZ
-CODE_SMELL
-	java:S116"VRename this field "pet_type_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÀıÇüÿÿÿÿ8·¨»/HëRMINORZ
-CODE_SMELL
-‚	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜åÌS8·¨»/H·RMINORZ
-CODE_SMELL
-ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËåúüÿÿÿÿ8·¨»/HßRMINORZ
-CODE_SMELL
-m	java:S125"<This block of commented-out lines of code should be removed.(é¾Å=8Š¦¦Š/H½RMAJORZ
-CODE_SMELL
-n	java:S125 "<This block of commented-out lines of code should be removed.(ºïõ8Š¦¦Š/H¾RMAJORZ
+ƒ	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¼æ8·¨»/H‹3RMINORZ
 CODE_SMELL
 l
-java:S1144,"4Remove this unused private "setPetBreedName" method.(µ¸ä¾úÿÿÿÿ8Š¦¦Š/HÀRMAJORZ
+java:S1144-"4Remove this unused private "setPetBreedName" method.(µ¸ä¾úÿÿÿÿ8Š¦¦Š/HŒ3RMAJORZ
+CODE_SMELL
+m	java:S125A"<This block of commented-out lines of code should be removed.(ÑÁ„<8Ş®Ïô/H3RMAJORZ
+CODE_SMELL
+‚	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜åÌS8·¨»/H3RMINORZ
+CODE_SMELL
+	java:S116"VRename this field "pet_type_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÀıÇüÿÿÿÿ8·¨»/H‘3RMINORZ
+CODE_SMELL
+n	java:S125""<This block of commented-out lines of code should be removed.(ºïõ8Š¦¦Š/H’3RMAJORZ
+CODE_SMELL
+ˆ	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¬õåüÿÿÿÿ8·¨»/H“3RMINORZ
+CODE_SMELL
+…	java:S116
+"SRename this field "pet_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éä‰ı8úïˆ»/H”3RMINORZ
+CODE_SMELL
+ˆ	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¸ä¾úÿÿÿÿ8·¨»/H•3RMINORZ
+CODE_SMELL
+†	java:S116"URename this field "pet_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÁ»{8Ş®Ïô/H–3RMINORZ
+CODE_SMELL
+s	java:S125	"<This block of commented-out lines of code should be removed.(‚éç°şÿÿÿÿ8Ş®Ïô/H—3RMAJORZ
+CODE_SMELL
+	java:S116"WRename this field "pet_birthday" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ²ô¤üÿÿÿÿ8Ş®Ïô/H˜3RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ñõúÿÿÿÿ8Ş®Ïô/H™3RMINORZ
+CODE_SMELL
+	java:S116"XRename this field "pet_type_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¾ĞŞúÿÿÿÿ8™¨˜Š/Hš3RMINORZ
 CODE_SMELL
 e
-java:S11444"3Remove this unused private "setPetTypeName" method.(˜åÌS8Š¦¦Š/HÁRMAJORZ
+java:S11445"3Remove this unused private "setPetTypeName" method.(˜åÌS8Š¦¦Š/H›3RMAJORZ
+CODE_SMELL
+	java:S116"YRename this field "pet_breed_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—”£üÿÿÿÿ8™¨˜Š/Hœ3RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºØ»±8·¨»/H3RMINORZ
+CODE_SMELL
+ƒ	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø°³¢8Ş®Ïô/H3RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËåúüÿÿÿÿ8í×ä’/HŸ3RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŞÕ8í×ä’/H 3RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õş–ßÿÿÿÿÿ8í×ä’/H¡3RMINORZ
+CODE_SMELL
+Œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(œŠÚËúÿÿÿÿ8í×ä’/H¢3RMINORZ
+CODE_SMELL
+Š	java:S116"SRename this field "PetBreed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ÷Ñéüÿÿÿÿ8í×ä’/H£3RMINORZ
 CODE_SMELL

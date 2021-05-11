@@ -1,196 +1,281 @@
 
-s
-java:S1068";Remove this unused "GET_PETS_BY_BREED_QUERY" private field.(£šÉ¾şÿÿÿÿ8äÆ“æ/HŞRMAJORZ
-CODE_SMELL
-}
-java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘¶†88äÆ“æ/H—RBLOCKERZBUG
-Y
-java:S1170K"!Make this final field static too.(ªºç‚øÿÿÿÿ8±úÁö/H‘RMINORZ
+˜	java:S116"aRename this field "DELETE_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”—Üıÿÿÿÿ8äÆ“æ/H¤3RMINORZ
 CODE_SMELL
 Y
-java:S2695>"+This "PreparedStatement" has no parameters.(ÒÉ¯ß8ò»ïö/H‘RBLOCKERZBUG
-Y
-java:S2695="+This "PreparedStatement" has no parameters.(±¹óû8äÆ“æ/HRBLOCKERZBUG
-ˆ	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò·ÕĞøÿÿÿÿ8ò»ïö/HÑRMINORZ
+java:S1170\"!Make this final field static too.(Ş„öÿÿÿÿÿ8Ÿ¾°ö/H¥3RMINORZ
 CODE_SMELL
-u
-java:S1068"=Remove this unused "INEXISTENT_COLUMN_PATTERN" private field.(†µ›°üÿÿÿÿ8¡³Êó/HÛRMAJORZ
-CODE_SMELL
-Y
-java:S1170"!Make this final field static too.(£šÉ¾şÿÿÿÿ8äÆ“æ/HÉRMINORZ
-CODE_SMELL
-T
-java:S1170"!Make this final field static too.(»’›Ú8¢Ö—ñ/HÍRMINORZ
-CODE_SMELL
-ƒ	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ßºz8äÆ“æ/HÂRMINORZ
-CODE_SMELL
-j	java:S1060"9Replace this use of System.out or System.err by a logger.(Œ˜%8ò»ïö/HÖRMAJORZ
-CODE_SMELL
-„	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøåÅ8–à÷‡/HRMINORZ
-CODE_SMELL
-‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ºÚ‡üÿÿÿÿ8äÆ“æ/H¥RMINORZ
-CODE_SMELL
-ƒ	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü Ì8Ÿ¾°ö/HóRMINORZ
-CODE_SMELL
-‚
-java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ÿ‘’ªøÿÿÿÿ8ƒçÉÁ/H®RBLOCKERZBUG
-T
-java:S1170n"!Make this final field static too.(œäâ­8Ÿ¾°ö/HúRMINORZ
-CODE_SMELL
-p	java:S1062"9Replace this use of System.out or System.err by a logger.(ÑÒ·çùÿÿÿÿ8äÆ“æ/HÎRMAJORZ
-CODE_SMELL
-‚
-java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾ìƒÿøÿÿÿÿ8äÆ“æ/H²RBLOCKERZBUG
-•	java:S116"^Rename this field "GET_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‚§˜ùÿÿÿÿ8äÆ“æ/HÇRMINORZ
-CODE_SMELL
-’
-java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(›²©™úÿÿÿÿ8äÆ“æ/HÛRMINORZ
-CODE_SMELL
-ˆ	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¬ÍÆûÿÿÿÿ8äÆ“æ/H¸RMINORZ
-CODE_SMELL
-–
-java:S1488r"^Immediately return this expression instead of assigning it to the temporary variable "result".(”óƒ™ıÿÿÿÿ8±úÁö/HŒRMINORZ
-CODE_SMELL
-™	java:S116"bRename this field "GET_PETS_BY_BREED_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£šÉ¾şÿÿÿÿ8äÆ“æ/HÆRMINORZ
-CODE_SMELL
-ˆ	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„…ò“ÿÿÿÿÿ8åÆÈÀ/H¬RMINORZ
-CODE_SMELL
-m
-java:S1068":Remove this unused "DUPLICATE_DATA_PATTERN" private field.(»’›Ú8¡³Êó/HÜRMAJORZ
-CODE_SMELL
-‰	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª¶Æúÿÿÿÿ8äÆ“æ/H»RMINORZ
-CODE_SMELL
-“	java:S116"aRename this field "GET_PETS_BY_TYPE_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ª¡8äÆ“æ/HÅRMINORZ
-CODE_SMELL
-‚
-java:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯˜‚ÿÿÿÿÿ8Ÿ¾°ö/HğRBLOCKERZBUG
-—	java:S116K"`Rename this field "GET_PET_BREED_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªºç‚øÿÿÿÿ8±úÁö/HRMINORZ
-CODE_SMELL
-‘	java:S116Ÿ"YRename this field "GET_PETS_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¢”…üÿÿÿÿ8í³õ¿/HÈRMINORZ
-CODE_SMELL
-‚
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Øñÿúÿÿÿÿ8äÆ“æ/H³RBLOCKERZBUG
-›	java:S116"dRename this field "INEXISTENT_COLUMN_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†µ›°üÿÿÿÿ8¢Ö—ñ/HÊRMINORZ
-CODE_SMELL
-Y
-java:S1170"!Make this final field static too.(´”—Üıÿÿÿÿ8äÆ“æ/HËRMINORZ
-CODE_SMELL
-k	java:S1065"9Replace this use of System.out or System.err by a logger.(ñóò¤8ò»ïö/HÕRMAJORZ
-CODE_SMELL
-ƒ	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ùµû8äÆ“æ/H¶RMINORZ
-CODE_SMELL
-„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛïÛú8ò»ïö/HÔRMINORZ
-CODE_SMELL
-„	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûáªÄ8äÆ“æ/HºRMINORZ
-CODE_SMELL
-x	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(éœİ§8”Ì¿é/HÉRMAJORZ
-CODE_SMELL
-Y
-java:S1170"!Make this final field static too.(¡‚§˜ùÿÿÿÿ8äÆ“æ/HÊRMINORZ
-CODE_SMELL
-„	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÉıÔ8ƒçÉÁ/H¤RMINORZ
-CODE_SMELL
-–	java:S116["_Rename this field "GET_PET_TYPE_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş„öÿÿÿÿÿ8Ÿ¾°ö/H÷RMINORZ
-CODE_SMELL
-ˆ	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÒÑ§üÿÿÿÿ8Ÿ¾°ö/HòRMINORZ
-CODE_SMELL
-ˆ	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠñÑßùÿÿÿÿ8äÆ“æ/H·RMINORZ
-CODE_SMELL
-
-java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö…¶8äÆ“æ/HÜRMINORZ
-CODE_SMELL
-ˆ	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±òğÉûÿÿÿÿ8±úÁö/HŠRMINORZ
-CODE_SMELL
-–
-java:S1488z"^Immediately return this expression instead of assigning it to the temporary variable "result".(”óƒ™ıÿÿÿÿ8Ÿ¾°ö/HöRMINORZ
-CODE_SMELL
-ƒ	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ñüà8±úÁö/H‹RMINORZ
-CODE_SMELL
-T
-java:S1170v"!Make this final field static too.(ÔµõÜ8±úÁö/H’RMINORZ
-CODE_SMELL
-p	java:S106,"9Replace this use of System.out or System.err by a logger.(ŸÖºÑûÿÿÿÿ8äÆ“æ/HÏRMAJORZ
-CODE_SMELL
-‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¦ôÄüÿÿÿÿ8–à÷‡/HšRMINORZ
-CODE_SMELL
-}
-java:S2095p"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨·î8±úÁö/H‰RBLOCKERZBUG
-}
-java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨·î8Ÿ¾°ö/HñRBLOCKERZBUG
-T
-java:S1170"!Make this final field static too.(«ª¡8í³õ¿/H§RMINORZ
-CODE_SMELL
-ˆ	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û«‰€şÿÿÿÿ8äÆ“æ/HµRMINORZ
-CODE_SMELL
-ˆ	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”è¡êıÿÿÿÿ8Ÿ¾°ö/HôRMINORZ
-CODE_SMELL
-„	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠîâÄ8ç×Èö/H©RMINORZ
-CODE_SMELL
-Y
-java:S2695?"+This "PreparedStatement" has no parameters.(‰¬‹é8Ì³Ïö/HÃRBLOCKERZBUG
-
-java:S4144w"XUpdate this method so that its implementation is not identical to "typeAdd" on line 111.(õª“îüÿÿÿÿ8±úÁö/HRMAJORZ
-CODE_SMELL
-	java:S116v"[Rename this field "GET_BREED_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔµõÜ8±úÁö/HRMINORZ
-CODE_SMELL
-Y
-java:S1170["!Make this final field static too.(Ş„öÿÿÿÿÿ8Ÿ¾°ö/HùRMINORZ
-CODE_SMELL
-‰	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¨éàøÿÿÿÿ8ò»ïö/HÓRMINORZ
-CODE_SMELL
-d
-java:S1135"2Complete the task associated to this TODO comment.(Ú½ƒÁ8É´À/H­RINFOZ
-CODE_SMELL
-Y
-java:S2695<"+This "PreparedStatement" has no parameters.(ê‚ĞÛ8äÆ“æ/H‘RBLOCKERZBUG
-Y
-java:S26959"+This "PreparedStatement" has no parameters.(áÊ¿8Ÿ¾°ö/HÈRBLOCKERZBUG
-‘	java:S116"_Rename this field "EDIT_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¾ÿÖ8í³õ¿/H¦RMINORZ
-CODE_SMELL
-j
-java:S1135¶"2Complete the task associated to this TODO comment.(ßÂÆ€şÿÿÿÿ8ıïŸŠ/HRINFOZ
-CODE_SMELL
-}
-java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª½À…8±úÁö/HˆRBLOCKERZBUG
-ƒ	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òäÙ‡8äÆ“æ/H´RMINORZ
-CODE_SMELL
-“	java:S116"aRename this field "DUPLICATE_DATA_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’›Ú8¢Ö—ñ/HËRMINORZ
-CODE_SMELL
-Œ	java:S116n"ZRename this field "GET_TYPE_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œäâ­8Ÿ¾°ö/HøRMINORZ
-CODE_SMELL
-˜	java:S116"aRename this field "DELETE_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´”—Üıÿÿÿÿ8äÆ“æ/HÈRMINORZ
+ƒ	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ßºz8äÆ“æ/H¦3RMINORZ
 CODE_SMELL
 Z
-java:S1170Ÿ"!Make this final field static too.(ú¢”…üÿÿÿÿ8í³õ¿/HÌRMINORZ
+java:S1170"!Make this final field static too.(¡‚§˜ùÿÿÿÿ8äÆ“æ/H§3RMINORZ
 CODE_SMELL
-‰	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›²©™úÿÿÿÿ8äÆ“æ/H¾RMINORZ
+ˆ	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò·ÕĞøÿÿÿÿ8ò»ïö/H¨3RMINORZ
 CODE_SMELL
-k	java:S106."9Replace this use of System.out or System.err by a logger.(‘øÕ8äÆ“æ/HÍRMAJORZ
+‚
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ÿ‘’ªøÿÿÿÿ8ƒçÉÁ/H©3RBLOCKERZBUG
+„	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûáªÄ8äÆ“æ/Hª3RMINORZ
 CODE_SMELL
-^
-java:S26958"+This "PreparedStatement" has no parameters.(ã“¼¡ûÿÿÿÿ8ƒçÉÁ/H–RBLOCKERZBUG
-„	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãıˆ8–à÷‡/H™RMINORZ
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(ŸÖºÑûÿÿÿÿ8ò»ïö/H«3RMAJORZ
 CODE_SMELL
-ƒ	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ñüà8Ÿ¾°ö/HõRMINORZ
+ˆ	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÒÑ§üÿÿÿÿ8Ÿ¾°ö/H¬3RMINORZ
 CODE_SMELL
-~
-java:S2095”"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÚÍ£‘8–à÷‡/H˜RBLOCKERZBUG
+‰	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¨éàøÿÿÿÿ8ò»ïö/H­3RMINORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(Î‰Çúÿÿÿÿ8ò»ïö/H®3RMAJORZ
+CODE_SMELL
+}
+java:S2095È"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘¶†88äÆ“æ/H¯3RBLOCKERZBUG
 T
-java:S1170"!Make this final field static too.(Â¾ÿÖ8í³õ¿/H£RMINORZ
+java:S1170"!Make this final field static too.(»’›Ú8¢Ö—ñ/H°3RMINORZ
 CODE_SMELL
-g
-java:S1068v"4Remove this unused "GET_BREED_LENGTH" private field.(ÔµõÜ8±úÁö/H“RMAJORZ
-CODE_SMELL
-Y
-java:S1170"!Make this final field static too.(†µ›°üÿÿÿÿ8¢Ö—ñ/HÌRMINORZ
-CODE_SMELL
-^
-java:S2695:"+This "PreparedStatement" has no parameters.(Û´Ş§ûÿÿÿÿ8äÆ“æ/H•RBLOCKERZBUG
-„	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦…÷8äÆ“æ/H¹RMINORZ
+j
+java:S1135û"2Complete the task associated to this TODO comment.(ßÂÆ€şÿÿÿÿ8ıïŸŠ/H±3RINFOZ
 CODE_SMELL
 Y
-java:S2695;"+This "PreparedStatement" has no parameters.(í¥·Ë8äÆ“æ/HÎRBLOCKERZBUG
+java:S1170"!Make this final field static too.(´”—Üıÿÿÿÿ8äÆ“æ/H²3RMINORZ
+CODE_SMELL
+ƒ	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ùµû8äÆ“æ/H³3RMINORZ
+CODE_SMELL
+–	java:S116\"_Rename this field "GET_PET_TYPE_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş„öÿÿÿÿÿ8Ÿ¾°ö/H´3RMINORZ
+CODE_SMELL
+ƒ	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü Ì8Ÿ¾°ö/Hµ3RMINORZ
+CODE_SMELL
+‰	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ºÚ‡üÿÿÿÿ8äÆ“æ/H¶3RMINORZ
+CODE_SMELL
+}
+java:S2095R"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª½À…8±úÁö/H·3RBLOCKERZBUG
+}
+java:S2095x"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨·î8Ÿ¾°ö/H¸3RBLOCKERZBUG
+Œ	java:S116v"ZRename this field "GET_TYPE_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œäâ­8Ÿ¾°ö/H¹3RMINORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(ËãÂƒøÿÿÿÿ8äÆ“æ/Hº3RMAJORZ
+CODE_SMELL
+›	java:S116"dRename this field "INEXISTENT_COLUMN_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†µ›°üÿÿÿÿ8¢Ö—ñ/H»3RMINORZ
+CODE_SMELL
+‚
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾ìƒÿøÿÿÿÿ8äÆ“æ/H¼3RBLOCKERZBUG
+
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö…¶8äÆ“æ/H½3RMINORZ
+CODE_SMELL
+T
+java:S1170v"!Make this final field static too.(œäâ­8±úÁö/H¾3RMINORZ
+CODE_SMELL
+„	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÉıÔ8ƒçÉÁ/H¿3RMINORZ
+CODE_SMELL
+‰	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›²©™úÿÿÿÿ8äÆ“æ/HÀ3RMINORZ
+CODE_SMELL
+ˆ	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û«‰€şÿÿÿÿ8äÆ“æ/HÁ3RMINORZ
+CODE_SMELL
+„	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠîâÄ8ç×Èö/HÂ3RMINORZ
+CODE_SMELL
+ƒ	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ñüà8±úÁö/HÃ3RMINORZ
+CODE_SMELL
 ~
-java:S2095±"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆò·²8äÆ“æ/H°RBLOCKERZBUG
-ˆ	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãôÆ·ÿÿÿÿÿ8ò»ïö/HÒRMINORZ
+java:S2095¬"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÚÍ£‘8–à÷‡/HÄ3RBLOCKERZBUG
+p	java:S106."9Replace this use of System.out or System.err by a logger.(»äÑÄûÿÿÿÿ8äÆ“æ/HÅ3RMAJORZ
+CODE_SMELL
+Z
+java:S1170Æ"!Make this final field static too.(ú¢”…üÿÿÿÿ8í³õ¿/HÆ3RMINORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(¦¬œ8äÆ“æ/HÇ3RMAJORZ
+CODE_SMELL
+‘	java:S116Æ"YRename this field "GET_PETS_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¢”…üÿÿÿÿ8í³õ¿/HÈ3RMINORZ
+CODE_SMELL
+u
+java:S1068"=Remove this unused "INEXISTENT_COLUMN_PATTERN" private field.(†µ›°üÿÿÿÿ8¡³Êó/HÉ3RMAJORZ
+CODE_SMELL
+’
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›²©™úÿÿÿÿ8äÆ“æ/HÊ3RMINORZ
+CODE_SMELL
+~
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆò·²8äÆ“æ/HË3RBLOCKERZBUG
+“	java:S116"aRename this field "DUPLICATE_DATA_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’›Ú8¢Ö—ñ/HÌ3RMINORZ
+CODE_SMELL
+ˆ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¬ÍÆûÿÿÿÿ8äÆ“æ/HÍ3RMINORZ
+CODE_SMELL
+‰	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¦ôÄüÿÿÿÿ8–à÷‡/HÎ3RMINORZ
+CODE_SMELL
+ƒ
+java:S2095’"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Øñÿúÿÿÿÿ8äÆ“æ/HÏ3RBLOCKERZBUG
+‰	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„…ò“ÿÿÿÿÿ8–à÷‡/HĞ3RMINORZ
+CODE_SMELL
+‚
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯˜‚ÿÿÿÿÿ8Ÿ¾°ö/HÑ3RBLOCKERZBUG
+‰	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª¶Æúÿÿÿÿ8äÆ“æ/HÒ3RMINORZ
+CODE_SMELL
+–	java:S116"^Rename this field "GET_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‚§˜ùÿÿÿÿ8äÆ“æ/HÓ3RMINORZ
+CODE_SMELL
+m
+java:S1068":Remove this unused "DUPLICATE_DATA_PATTERN" private field.(»’›Ú8¡³Êó/HÔ3RMAJORZ
+CODE_SMELL
+„	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦…÷8äÆ“æ/HÕ3RMINORZ
+CODE_SMELL
+ƒ	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ñüà8Ÿ¾°ö/HÖ3RMINORZ
+CODE_SMELL
+„	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛïÛú8ò»ïö/H×3RMINORZ
+CODE_SMELL
+~
+java:S2095è"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’İ†ö8ˆØä’/HØ3RBLOCKERZBUG
+ƒ
+java:S2095…"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ÏÑÈúÿÿÿÿ8ˆØä’/HÙ3RBLOCKERZBUG
+~
+java:S2095ö"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¼Ç§ˆ8ˆØä’/HÚ3RBLOCKERZBUG
+ƒ
+java:S2095¸"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(®áİÛşÿÿÿÿ8ˆØä’/HÛ3RBLOCKERZBUG
+~
+java:S2095¿"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÑÚ¦Ó8ˆØä’/HÜ3RBLOCKERZBUG
+ƒ
+java:S2095Ù"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’˜âûşÿÿÿÿ8ˆØä’/Hİ3RBLOCKERZBUG
+
+java:S1192Ÿ"HDefine a constant instead of duplicating this literal "No Data" 3 times.(ÌÁìö8ˆØä’/HŞ3RCRITICALZ
+CODE_SMELL
+ƒ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ø¡™8ˆØä’/Hâ3RMINORZ
+CODE_SMELL
+ˆ	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠñÑßùÿÿÿÿ8ˆØä’/Hã3RMINORZ
+CODE_SMELL
+ˆ	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êäœ¨ûÿÿÿÿ8ˆØä’/Hä3RMINORZ
+CODE_SMELL
+ƒ	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó£îù8ˆØä’/Hå3RMINORZ
+CODE_SMELL
+ƒ	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ ÒĞ8ˆØä’/Hæ3RMINORZ
+CODE_SMELL
+„	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜøåÅ8ˆØä’/Hç3RMINORZ
+CODE_SMELL
+‰	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‚¦Öıÿÿÿÿ8ˆØä’/Hè3RMINORZ
+CODE_SMELL
+„	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûáªÄ8ˆØä’/Hé3RMINORZ
+CODE_SMELL
+‰	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¼ó¯ùÿÿÿÿ8ˆØä’/Hê3RMINORZ
+CODE_SMELL
+‰	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ª¶Æúÿÿÿÿ8ˆØä’/Hë3RMINORZ
+CODE_SMELL
+„	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠÍô8ˆØä’/Hì3RMINORZ
+CODE_SMELL
+
+java:S1488~"[Immediately return this expression instead of assigning it to the temporary variable "res".(öŸ¹ä8ˆØä’/Hí3RMINORZ
+CODE_SMELL
+
+java:S1488‹"[Immediately return this expression instead of assigning it to the temporary variable "res".(öŸ¹ä8ˆØä’/Hî3RMINORZ
+CODE_SMELL
+
+java:S1488Ş"\Immediately return this expression instead of assigning it to the temporary variable "name".(Ñ«¶¶8ˆØä’/Hï3RMINORZ
+CODE_SMELL
+
+java:S1488í"\Immediately return this expression instead of assigning it to the temporary variable "name".(Ñ«¶¶8ˆØä’/Hğ3RMINORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ˆØä’/Hñ3RMINORZ
+CODE_SMELL
+]
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8ˆØä’/Hò3RMINORZ
+CODE_SMELL
+h
+java:S1128
+"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8ˆØä’/Hó3RMINORZ
+CODE_SMELL
+d
+java:S1128	"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ˆØä’/Hô3RMINORZ
+CODE_SMELL
+‘	java:S116)"_Rename this field "EDIT_PET_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğşàì8ˆØä’/Hõ3RMINORZ
+CODE_SMELL
+—	java:S116N"`Rename this field "GET_PET_BREED_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¯ß€ùÿÿÿÿ8ˆØä’/Hö3RMINORZ
+CODE_SMELL
+“	java:S116ƒ"[Rename this field "GET_BREED_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êåœûÿÿÿÿ8ˆØä’/H÷3RMINORZ
+CODE_SMELL
+	java:S116¶"ZRename this field "CREATE_PET_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù—‘Æ8ˆØä’/Hø3RMINORZ
+CODE_SMELL
+	java:S116½"[Rename this field "CREATE_PET_BREED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ç¡±8ˆØä’/Hù3RMINORZ
+CODE_SMELL
+’	java:S116×"`Rename this field "GET_BREED_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÌÈ}8ˆØä’/Hú3RMINORZ
+CODE_SMELL
+—	java:S116æ"_Rename this field "GET_TYPE_BY_ID_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å°´–øÿÿÿÿ8ˆØä’/Hû3RMINORZ
+CODE_SMELL
+•	java:S116ô"bRename this field "GET_PETS_BY_BREED_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î„½Ê8ˆØä’/Hü3RMINORZ
+CODE_SMELL
+”	java:S116‰"aRename this field "GET_PETS_BY_TYPE_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÑÙñ8ˆØä’/Hı3RMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(†µ›°üÿÿÿÿ8ˆØä’/Hş3RMINORZ
+CODE_SMELL
+Y
+java:S1170N"!Make this final field static too.(—¯ß€ùÿÿÿÿ8ˆØä’/Hÿ3RMINORZ
+CODE_SMELL
+Z
+java:S1170ƒ"!Make this final field static too.(êåœûÿÿÿÿ8ˆØä’/H€4RMINORZ
+CODE_SMELL
+U
+java:S1170¶"!Make this final field static too.(ù—‘Æ8ˆØä’/H4RMINORZ
+CODE_SMELL
+U
+java:S1170½"!Make this final field static too.(½Ç¡±8ˆØä’/H‚4RMINORZ
+CODE_SMELL
+T
+java:S1170×"!Make this final field static too.(­ÌÈ}8ˆØä’/Hƒ4RMINORZ
+CODE_SMELL
+Z
+java:S1170æ"!Make this final field static too.(å°´–øÿÿÿÿ8ˆØä’/H„4RMINORZ
+CODE_SMELL
+U
+java:S1170ô"!Make this final field static too.(Î„½Ê8ˆØä’/H…4RMINORZ
+CODE_SMELL
+U
+java:S1170‰"!Make this final field static too.(šÑÙñ8ˆØä’/H†4RMINORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(İ¹Áºûÿÿÿÿ8ˆØä’/H‡4RMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(Å§›¢øÿÿÿÿ8ˆØä’/Hˆ4RMAJORZ
+CODE_SMELL
+j	java:S1063"9Replace this use of System.out or System.err by a logger.(‘ßœf8ˆØä’/H‰4RMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(‘øÕ8ˆØä’/HŠ4RMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(—˜µ±8ˆØä’/H‹4RMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(ÑÒ·çùÿÿÿÿ8ˆØä’/HŒ4RMAJORZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(ñóò¤8ˆØä’/H4RMAJORZ
+CODE_SMELL
+c
+java:S1172p"0Remove this unused method parameter "result_id".(µ ÒĞ8ˆØä’/H4RMAJORZ
+CODE_SMELL
+¡
+java:S1130p"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(µ ÒĞ8ˆØä’/H4RMINORZ
+CODE_SMELL
+d
+java:S1135q"2Complete the task associated to this TODO comment.(í„Í¨8ˆØä’/H‘4RINFOZ
+CODE_SMELL
+i
+java:S1854{"6Remove this useless assignment to local variable "id".(Óã¹ë8ˆØä’/H’4RMAJORZ
+CODE_SMELL
+p	java:S106|"9Replace this use of System.out or System.err by a logger.(ªü¥¢úÿÿÿÿ8ˆØä’/H“4RMAJORZ
+CODE_SMELL
+j
+java:S1854ˆ"6Remove this useless assignment to local variable "id".(Óã¹ë8ˆØä’/H”4RMAJORZ
+CODE_SMELL
+l	java:S106‰"9Replace this use of System.out or System.err by a logger.(í¾ÕŠ8ˆØä’/H•4RMAJORZ
+CODE_SMELL
+h
+java:S1751à"6Remove this "return" statement or make it conditional.(»Ã÷¤øÿÿÿÿ8ˆØä’/H–4RMAJORZBUG
+h
+java:S1751ï"6Remove this "return" statement or make it conditional.(»Ã÷¤øÿÿÿÿ8ˆØä’/H—4RMAJORZBUG
+’
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(™‚¦Öıÿÿÿÿ8ˆØä’/H˜4RMINORZ
+CODE_SMELL
+j
+java:S1135"2Complete the task associated to this TODO comment.(ßÂÆ€şÿÿÿÿ8ˆØä’/H™4RINFOZ
+CODE_SMELL
+Z
+java:S1481{"'Remove this unused "id" local variable.(Óã¹ë8ˆØä’/Hš4RMINORZ
+CODE_SMELL
+[
+java:S1481ˆ"'Remove this unused "id" local variable.(Óã¹ë8ˆØä’/H›4RMINORZ
+CODE_SMELL
+c
+java:S1144p"0Remove this unused private "checkTypeID" method.(µ ÒĞ8ˆØä’/Hœ4RMAJORZ
+CODE_SMELL
+h
+java:S1144©"4Remove this unused private "populatePetType" method.(Îôá8ˆØä’/H4RMAJORZ
+CODE_SMELL
+n
+java:S1144°"5Remove this unused private "populatePetBreed" method.(Œ¿ı¾øÿÿÿÿ8ˆØä’/H4RMAJORZ
 CODE_SMELL
